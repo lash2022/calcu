@@ -1,6 +1,6 @@
 let x =  2
 let  y = 4
 
-let sum = x + y
-
+const sum = x + y
+const multiply = x * y
 
