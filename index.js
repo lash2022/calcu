@@ -3,5 +3,5 @@ let  y = 4
 
 const sum = x + y
 const multiply = x * y
-const subtracr =  x / y 
+const subtract =  x / y 
 
