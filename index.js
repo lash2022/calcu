@@ -5,4 +5,5 @@ console.log('this is nice calculator')
 
 const sum = x + y
 const multiply = x * y
+const subtract =  x / y 
 
